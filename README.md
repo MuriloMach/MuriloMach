@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&multiline=true&repeat=false&random=false&width=435&lines=Oi%2C+eu+sou+o+Murilo+Machado%2C;Sou+estudante+de+ADS" alt="Typing SVG" />
 
 ## 👨‍💻 Sobre Mim
 
