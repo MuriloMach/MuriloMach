@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff0000&height=120§ion=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+
 
 
 ## 👨‍💻 Sobre Mim
@@ -82,4 +83,4 @@ Portanto, nesse momento estou em busca de estágio na área de TI e aprender cad
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#993399&height=120§ion=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
