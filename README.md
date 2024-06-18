@@ -3,10 +3,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-<p>Em 2021 e 2022 fiz ensino médio técnico integrado com a Tecnologia da Informação no Senac Lapa Tito.
-E desde de fevereiro de 2023 estou estudando Análise e Desenvolvimento de Sistemas na faculdade FIAP. 
-
-Hoje em dia estou no 4º Semestre da faculdade, com isso até o momento atual possuo conhecimento sobre as determinadas áreas de programação:
+<p>Em 2021 e 2022, fiz o ensino médio técnico integrado em Tecnologia da Informação no Senac Lapa Tito. Desde fevereiro de 2023, estou estudando Análise e Desenvolvimento de Sistemas na faculdade FIAP.
+Atualmente, estou no 4º semestre da faculdade. Até o momento, possuo conhecimento nas seguintes áreas de programação:
 
 - HTML5, CSS
 
@@ -18,6 +16,7 @@ Hoje em dia estou no 4º Semestre da faculdade, com isso até o momento atual po
 
 - IBM Watson
 
+- UML
 
 ## 🧠 Outros conhecimentos adquiridos no Ensino Médio Técnico:
 
