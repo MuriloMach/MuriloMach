@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&multiline=true&repeat=false&random=false&width=435&lines=Oi%2C+eu+sou+o+Murilo+Machado%2C;Sou+estudante+de+ADS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&multiline=true&repeat=false&random=false&width=435&lines=Oi%2C+eu+sou+o+Murilo+Machado%2C;Sou+formado+em+ADS" alt="Typing SVG" />
 
 ## 👨‍💻 Sobre Mim
 
@@ -47,11 +47,13 @@ Ao longo dessa jornada, adquiri conhecimento em diversas áreas da programação
 Portanto, nesse momento estou em busca de estágio na área de TI e aprender cada vez mais para evoluir como profissional.</p>
 
 
-## 📑 Linguagens de Contato 
+## 📑 Linguagens e Áreas de Contato 
 
 - SQL e PLSQL
 - Java
 - CSharp
+- NoSql
+- DevOps
 
 <div style="display: inline-block;">
   <img align="center" alt="C#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
