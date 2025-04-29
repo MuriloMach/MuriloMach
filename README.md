@@ -7,6 +7,8 @@
 
 Desde fevereiro de 2023, estudei Análise e Desenvolvimento de Sistemas na FIAP e, agora, me formei!
 
+Cursando atualmente em abril de 2025 Ciência da Computação na FMU!!
+
 Ao longo dessa jornada, adquiri conhecimento em diversas áreas da programação e sigo em constante aprendizado, abaixo as áreas que eu tenho conhecimento:
 
 - HTML5, CSS
